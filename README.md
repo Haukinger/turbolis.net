@@ -1,3 +1,1 @@
-# TurboLIS.Net
-
 ... here goes some content ...
